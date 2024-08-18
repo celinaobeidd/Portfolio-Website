@@ -230,7 +230,7 @@ body {
 
 .main-front-span{
     color: white;
-    font-weight: 700;
+    font-weight: 900;
     font-size: 18px;
     letter-spacing: 1px;
 }
@@ -647,6 +647,11 @@ body {
     font-style: italic;
     font-weight: 600;
     font-family: "Playwrite IT Moderna", cursive;
+}
+
+.github-icon-a{
+    text-decoration: none;
+    color: white;
 }
 
 @media (max-width: 590px){
